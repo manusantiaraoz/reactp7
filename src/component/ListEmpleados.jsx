@@ -1,4 +1,4 @@
-import CardEmpleado from "./cardEmpleado";
+import CardEmpleado from "./CardEmpleado";
 
 const ListEmpleados = ({ empleados }) => {
   return (
