@@ -10,7 +10,7 @@ const ListEmpleados = ({ empleados }) => {
           empleadoTitulo={empleado.title}
           empleadoDepartamento={empleado.department}
           empleadoImg={empleado.pic}
-        />
+        ></CardEmpleado>
       ))}
     </section>
   );
